@@ -78,4 +78,3 @@ will run with 3 delta sets. To run the attack with `m` delta sets, compile with 
 
 <br />
 <br />
-# difa_extension_simulation
