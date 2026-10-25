@@ -1,5 +1,9 @@
-This repository provides supplementary material for our work "DIFA-Rent: Division Property Based Fault Attacks on **DEFAULT** and **BAKSHEESH**".
+DIFA-Rent
 =========================================================
+This repository provides supplementary material for our work "DIFA-Rent: Division Property Based Fault Attacks on **DEFAULT** and **BAKSHEESH**".
+
+## Authors
+Shibam Ghosh (IIT Hyderabad), Anup Kumar Kundu (ISI Kolkata), Dhiman Saha(de.ci.phe.red lab, IIT Bhilai)
 
 ## Table of contents
 
